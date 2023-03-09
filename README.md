@@ -1,5 +1,7 @@
 # Dockerize Drupal using NGINX and the FPM image
 
+> **Warning** The DB credentials have been exposed intentionally. Please change them before use.
+
 ## Launch Drupal fast
 
 ### Using Docker Compose
